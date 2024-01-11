@@ -1,9 +1,11 @@
 # Used-Car-DataAnalysis-Excel
 "Craigslist Used Cars Data Analysis (April-May 2021): Insights and Excel Techniques"
 
-Data Analysis of used cars in April and May of 2021 posted on craigslist.
-
 Data collected by Austin Reese, analysis by Joshua Porter
+
+Created with Excel, to find the excel spreadsheet and analysis, follow the dropbox link and download the sheet: 
+
+https://www.dropbox.com/scl/fi/ekb5gfv75agdf7xn29s9b/vehicles.xlsb.xlsx?rlkey=m9ebougpreyiad1fviwmt0a6y&dl=0
 
 Source: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code
 
