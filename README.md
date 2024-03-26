@@ -1,4 +1,4 @@
-# Used-Car-DataAnalysis-Excel
+# Analysing the Used Car Market on Craigslist
 "Craigslist Used Cars Data Analysis (April-May 2021): Insights and Excel Techniques"
 
 Data collected by Austin Reese, analysis by Joshua Porter
